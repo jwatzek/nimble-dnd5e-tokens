@@ -8,7 +8,7 @@
       "url": "https://github.com/jwatzek"
     }
   ],
-  "version": "0.0.1",
+  "version": "updatedByRelease",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -42,7 +42,9 @@
       }
     ]
   },
-  "manifest": "https://github.com/jwatzek/nimble-dnd5e-tokens/releases/download/latest/module.json",
-  "download": "https://github.com/jwatzek/nimble-dnd5e-tokens/releases/download/latest/module.zip",
-  "readme": "https://github.com/jwatzek/nimble-dnd5e-tokens#README"
+  "url": "https://github.com/jwatzek/nimble-dnd5e-tokens",
+  "manifest": "updatedByRelease",
+  "download": "updatedByRelease",
+  "readme": "https://github.com/jwatzek/nimble-dnd5e-tokens#README.md",
+  "license": "https://github.com/jwatzek/nimble-dnd5e-tokens/blob/main/LICENSE.md"
 }
