@@ -1,0 +1,48 @@
+{
+  "id": "nimble-dnd5e-tokens",
+  "title": "Nimble - DND 5e Tokens",
+  "description": "Map tokens from the dnd5e system to the actors of the nimble system.",
+  "authors": [
+    {
+      "name": "jwatzek",
+      "url": "https://github.com/jwatzek"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true,
+    "compendiumArtMappings": {
+      "nimble": {
+        "mapping": "modules/nimble-dnd5e-tokens/src/mapping.json",
+        "credit": "<em>Portrait, token, and subject artwork from Dungeons & Dragons Fifth Edition tokens.</em>"
+      }
+    }
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "nimble",
+        "type": "system",
+        "compatibility": {
+          "verified": "0.6.1"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "verified": "5.2.5"
+        }
+      }
+    ]
+  },
+  "manifest": "https://github.com/jwatzek/nimble-dnd5e-tokens/releases/download/latest/module.json",
+  "download": "https://github.com/jwatzek/nimble-dnd5e-tokens/releases/download/latest/module.zip",
+  "readme": "https://github.com/jwatzek/nimble-dnd5e-tokens#README"
+}
