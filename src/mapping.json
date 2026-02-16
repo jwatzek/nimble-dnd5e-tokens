@@ -50,7 +50,13 @@
     },
     "vrqkmCllLRNFP3wk": {
       "actor": "systems/dnd5e/tokens/monstrosity/Basilisk.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Basilisk.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Basilisk.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "qDQmZyxj9qsWBpKX": {
       "actor": "systems/dnd5e/tokens/ooze/BlackPudding.webp",
@@ -58,7 +64,13 @@
     },
     "w9gh6oGZ8508YMAN": {
       "actor": "systems/dnd5e/tokens/dragon/BlueDragonWyrmling.webp",
-      "token": "systems/dnd5e/tokens/dragon/BlueDragonWyrmling.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/dragon/BlueDragonWyrmling.webp",
+          "scaleX": 2.5,
+          "scaleY": 2.5
+        }
+      }
     },
     "lDTJWdkMFVOOQVwc": {
       "actor": "systems/dnd5e/tokens/plant/Treant.webp",
@@ -130,7 +142,13 @@
     },
     "7MDFdUO1qqBTbTsv": {
       "actor": "systems/dnd5e/tokens/monstrosity/Griffon.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Griffon.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Griffon.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "cNbaLrHdwnwnMMmY": {
       "actor": "systems/dnd5e/tokens/giant/HillGiant.webp",
@@ -174,7 +192,13 @@
     },
     "GyeeUOjzK5XBnBzl": {
       "actor": "systems/dnd5e/tokens/monstrosity/Roc.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Roc.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Roc.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "2DA7L6itDvrZDtqD": {
       "actor": "systems/dnd5e/tokens/undead/Skeleton.webp",
@@ -206,7 +230,13 @@
     },
     "CnjRxzi5UaRzrObt": {
       "actor": "systems/dnd5e/tokens/monstrosity/Worg.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Worg.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Worg.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "7n6nZkTZP6LwALlo": {
       "actor": "systems/dnd5e/tokens/undead/Wraith.webp",
@@ -234,11 +264,23 @@
     },
     "w464OFhPTQGwLFZp": {
       "actor": "systems/dnd5e/tokens/monstrosity/Bulette.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Bulette.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Bulette.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "BSiFuESoO19XNaBx": {
       "actor": "systems/dnd5e/tokens/fiend/Marilith.webp",
-      "token": "systems/dnd5e/tokens/fiend/Marilith.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/fiend/Marilith.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        }
+      }
     },
     "YjKhjwiYoNrrhXfo": {
       "actor": "systems/dnd5e/tokens/humanoid/Cultist.webp",
@@ -258,7 +300,13 @@
     },
     "34sqnNwhGhVQvZPD": {
       "actor": "systems/dnd5e/tokens/beast/GiantFireBeetle.webp",
-      "token": "systems/dnd5e/tokens/beast/GiantFireBeetle.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/beast/GiantFireBeetle.webp",
+          "scaleX": 0.75,
+          "scaleY": 0.75
+        }
+      }
     },
     "iTOZ7qow3Hh7VsGf": {
       "actor": "systems/dnd5e/tokens/humanoid/Kobold.webp",
@@ -278,11 +326,23 @@
     },
     "rV8kgeKs7wRL55j6": {
       "actor": "systems/dnd5e/tokens/aberration/Skum.webp",
-      "token": "systems/dnd5e/tokens/aberration/Skum.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/aberration/Skum.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
     },
     "UqUuKtAWlOrDkAFy": {
       "actor": "systems/dnd5e/tokens/monstrosity/Ankheg.webp",
-      "token": "systems/dnd5e/tokens/monstrosity/Ankheg.webp"
+      "token": {
+        "texture": {
+          "src": "systems/dnd5e/tokens/monstrosity/Ankheg.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        }
+      }
     }
   }
 }
